@@ -1,0 +1,25 @@
+{
+  "name": "sample-library-nodejs",
+  "version": "1.0.0",
+  "description": "Programa para ver el uso de arrays multidimensionales",
+  "main": "Library.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthonyzok521/Sample-Library-Nodejs.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "AC GAMES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthonyzok521/Sample-Library-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Anthonyzok521/Sample-Library-Nodejs#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
